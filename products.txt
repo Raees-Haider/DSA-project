@@ -1,0 +1,25 @@
+1 1 100 800 Physics|Books
+2 2 200 10 Blue Ink Pen|Pen
+3 3 150 50 Oil Pastels|Color
+4 4 120 30 Black Marker|Marker
+5 5 90 100 Spiral Notebook|Register
+6 1 75 120 Chemistry|Books
+7 2 300 15 Gel Pen|Pen
+8 3 110 60 Water Colors|Color
+9 4 80 25 Red Marker|Marker
+10 5 60 150 Leather Register|Register
+11 1 50 900 Mathematics|Books
+12 1 60 850 Biology|Books
+13 2 180 12 Ballpoint Pen|Pen
+14 2 220 14 Fountain Pen|Pen
+15 3 130 45 Acrylic Paints|Color
+16 3 100 70 Sketch Colors|Color
+17 4 90 28 Permanent Marker|Marker
+18 4 110 35 Whiteboard Marker|Marker
+19 5 40 120 Student Register|Register
+20 5 30 200 Executive Register|Register
+21 1 80 500 English Literature|Books
+22 2 250 8 Pencil|Pen
+23 3 160 55 Poster Colors|Color
+24 4 70 40 Highlighter Marker|Marker
+25 5 45 170 Meeting Register|Register
